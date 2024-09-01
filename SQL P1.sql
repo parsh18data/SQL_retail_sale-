@@ -1,4 +1,6 @@
 SELECT * FROM retail_sale
+
+	
 WHERE 
     transactions_id IS NULL
     OR
